@@ -1,7 +1,7 @@
 body {
   /* background-image: url(/assets/pictures/forest_night.jpg); */
   /* background-image: url(/assets/pictures/green_waterfall.jpg); */
-  background: url(/assets/pictures/blue_white.jpeg) no-repeat center center
+  background: url("/assets/pictures/blue_white.jpeg") no-repeat center center
     fixed;
   background-size: 100%;
   height: 100%;
