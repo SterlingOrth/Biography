@@ -16,6 +16,7 @@ body {
 
 #email {
   text-align: center;
+  display: block;
   text-shadow: 1px 2px black;
 }
 
