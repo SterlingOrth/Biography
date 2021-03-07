@@ -22,10 +22,10 @@ Ways you can get in touch with me!
 URLS
 
 GitHub:
-https://sterlingorth.github.io/Bio/
+https://sterlingorth.github.io/Biography/
 
 Source Code:
-https://github.com/SterlingOrth/Bio.git
+https://github.com/SterlingOrth/Biography.git
 https://github.com/SterlingOrth/Alcohol_Archives.git
 https://github.com/SterlingOrth/PassGen.git
 
